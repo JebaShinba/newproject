@@ -1,1 +1,1 @@
-new project name rust
+new project name rust project
